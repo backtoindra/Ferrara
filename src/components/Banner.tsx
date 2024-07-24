@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function Banner() {
   return (
     <div className="items-center justify-center gap-x-6 bg-gray-900 px-6 py-2.5 sm:px-3.5 sm:before:flex-1 fixed top-0 left-0 right-0 z-50">
