@@ -1,0 +1,15 @@
+// types/Menu.ts
+export interface MenuItem {
+  category: string;
+  description: string;
+  prices: string[];
+}
+
+export interface MenuCategory {
+  id: string;
+  items: MenuItem[];
+}
+
+export type MenuData = {
+  [category: string]: MenuCategory;
+}
