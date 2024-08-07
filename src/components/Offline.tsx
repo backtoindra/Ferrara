@@ -1,4 +1,3 @@
-import React from 'react';
 import { offlineItems } from '../data/offlineItems';
 
 export default function Offline() {
