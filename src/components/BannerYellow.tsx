@@ -15,7 +15,7 @@ export default function BannerYellow({ }) {
           <svg viewBox="0 0 2 2" aria-hidden="true" className="mx-2 inline h-0.5 w-0.5 fill-current">
             <circle r={1} cx={1} cy={1} />
           </svg>
-          <strong className='font-semibold'>For Up to 50 People. Contact #803-785-7200</strong>
+          <strong className='font-semibold'>For Up to 50 People. Contact #803-728-0055</strong>
         </p>
         <div className="flex flex-1 justify-end">
           <button type="button" className="-m-3 p-3 focus-visible:outline-offset-[-4px]">

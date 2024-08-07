@@ -10,11 +10,11 @@ const SpecialRequests = () => {
         </div>
         <div className="mt-10 px-8 sm:px-6 lg:max-w-7xl lg:px-8 flex justify-between">
           <div className="text-center md:text-left">
-            <h3 className="text-2xl font-bold text-gray-900">FERRARA PIZZA AND PASTA</h3>
+            <h3 className="text-2xl font-bold text-gray-900">FERRARA Real NY PIZZA AND PASTA</h3>
             <h5 className='text-xl mt-4 font-bold text-gray-900 align-left'>Address:</h5>
-            <p className='font-semibold text-gray-900 align-left'>6801 St. Andrews rd Suite 15</p>
+            <p className='font-semibold text-gray-900 align-left'>6801 St. Andrews Rd Suite 15</p>
             <p className='font-semibold text-gray-900 align-left'>Columbia, SC 29212</p>
-            <p className='font-semibold text-gray-900 align-left'>Contact: (803)-785-7200</p>
+            <p className='font-semibold text-gray-900 align-left'>Contact: (803)-728-0055</p>
           </div>
           <div className="text-center">
             <h3 className="text-xl font-bold text-gray-900 md:text-left">Hours</h3>
