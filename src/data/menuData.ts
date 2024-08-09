@@ -8,7 +8,7 @@ export const menuData: MenuData = {
         prices: "$8.99",
         imageSrc: "https://plus.unsplash.com/premium_photo-1677619680531-3ce8e97f2905?q=80&w=600&h=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         imageAlt: "Mozzarella Sticks",
-        metadata: {"Mozzarella"},
+        metadata: { items:"Mozzarella"},
       },
       {
         category: "Fried Calamari",
@@ -32,7 +32,7 @@ export const menuData: MenuData = {
         prices: "$10.99",
         imageSrc: "https://plus.unsplash.com/premium_photo-1695558759293-24c3e448261c?q=80&w=600&h=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         imageAlt: "Chicken Tenders",
-        metadata: {"Chicken" },
+        metadata: { items:"Chicken" },
       },
       {
         category: "6 Garlic Rolls",
@@ -40,7 +40,7 @@ export const menuData: MenuData = {
         prices: "$2.99",
         imageSrc: "https://plus.unsplash.com/premium_photo-1667664479190-5f4e24b8d660?q=80&w=600&h=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         imageAlt: "Garlic Rolls",
-        metadata: {"Rolls"},
+        metadata: { items:"Rolls"},
       },
       {
         category: "12 Garlic Rolls",
@@ -48,7 +48,7 @@ export const menuData: MenuData = {
         prices: "$4.99",
         imageSrc: "https://plus.unsplash.com/premium_photo-1667664479190-5f4e24b8d660?q=80&w=600&h=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         imageAlt: "Garlic Rolls",
-        metadata: {"garlic"},
+        metadata: { items:"garlic"},
       },
       {
         category: "Garlic Bread with Cheese",
@@ -96,7 +96,7 @@ export const menuData: MenuData = {
         prices: "$0.79",
         imageSrc: "https://plus.unsplash.com/premium_photo-1663040601657-4a70e97fb891?q=80&w=600&h=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         imageAlt: "Side Sauce",
-        metadata: {"sauce"},
+        metadata: { items:"sauce"},
       },
       {
         category: "Shrimp Platter (8 Jumbo Fried Shrimp served with fries)",
@@ -104,7 +104,7 @@ export const menuData: MenuData = {
         prices: "$10.95",
         imageSrc: "https://plus.unsplash.com/premium_photo-1707935175109-ba307d98bfe2?q=80&w=600&h=400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         imageAlt: "Shrimp Platter",
-        metadata: {"shrimp"},
+        metadata: { items:"shrimp"},
       },
       {
         category: "Calamari Ferrara",
@@ -296,7 +296,7 @@ export const menuData: MenuData = {
         prices: "Sm 12\" $16.99 | Med 14\" $20.99 | Lg 16\" $23.99 | XL 18\" $26.99 | Sicilian $30.99",
         imageSrc: "",
         imageAlt: "Chiken Tikka",
-        metadata: {"Tikka"},
+        metadata: { items:"Tikka"},
       },
     ],
   },
@@ -333,7 +333,7 @@ export const menuData: MenuData = {
         prices: "Sm $10.99 | Lg $22.99",
         imageSrc: "",
         imageAlt: "Chicken Parm Stromboli",
-        metadata: {"Stromboli"},
+        metadata: { items:"Stromboli"},
       },
       {
         category: "Stromboli",
@@ -668,7 +668,7 @@ export const menuData: MenuData = {
         prices: "$16.99",
         imageSrc: "",
         imageAlt: "Penne with Chicken & Broccoli",
-        metadata: {"Pasta"},
+        metadata: { items:"Pasta"},
       },
       {
         category: "Fettuccine Alfredo",
@@ -676,7 +676,7 @@ export const menuData: MenuData = {
         prices: "$16.99",
         imageSrc: "",
         imageAlt: "Fettuccine Alfredo",
-        metadata: {"Pasta"},
+        metadata: { items:"Pasta"},
       },
       {
         category: "Spaghetti",
@@ -708,7 +708,7 @@ export const menuData: MenuData = {
         prices: "$16.99",
         imageSrc: "",
         imageAlt: "Pasta Rustica",
-        metadata: {"Pasta"},
+        metadata: { items:"Pasta"},
       },
       {
         category: "Penne Carbonara",
@@ -777,7 +777,7 @@ export const menuData: MenuData = {
         prices: "$16.99",
         imageSrc: "",
         imageAlt: "Pasta Trio",
-        metadata: {"Pasta"},
+        metadata: { items:"Pasta"},
       },
       {
         category: "Pasta Platter",
@@ -785,7 +785,7 @@ export const menuData: MenuData = {
         prices: "$16.99",
         imageSrc: "",
         imageAlt: "Pasta Platter",
-        metadata: {"Pasta"},
+        metadata: { items:"Pasta"},
       },
     ],
   },
@@ -862,7 +862,7 @@ export const menuData: MenuData = {
         prices: "$4.99",
         imageSrc: "",
         imageAlt: "Caesar Side Salad",
-        metadata: {"Salad"},
+        metadata: { items:"Salad"},
       },
     ],
   },
@@ -876,7 +876,7 @@ export const menuData: MenuData = {
         prices: "$11.99",
         imageSrc: "",
         imageAlt: "Meatball Parmigiana Hot Sandwich",
-        metadata: {"Sandwich"},
+        metadata: { items:"Sandwich"},
       },
       {
         category: "Eggplant Parmigiana",
@@ -900,7 +900,7 @@ export const menuData: MenuData = {
         prices: "$11.99",
         imageSrc: "",
         imageAlt: "Sausage, Peppers & Onions Hot Sandwich",
-        metadata: {"Sandwich"},
+        metadata: { items:"Sandwich"},
       },
       {
         category: "Chicken Parmigiana",
@@ -945,7 +945,7 @@ export const menuData: MenuData = {
         prices: "$2.50",
         imageSrc: "",
         imageAlt: "Soda",
-        metadata: {"Coke"},
+        metadata: { items:"Coke"},
       },
     ],
   },
@@ -958,7 +958,7 @@ export const menuData: MenuData = {
         prices: "",
         imageSrc: "",
         imageAlt: "Sandwiches",
-        metadata: {"Sandwiches"},
+        metadata: { items:"Sandwiches"},
       },
 
       {
@@ -991,7 +991,7 @@ export const menuData: MenuData = {
         prices: "$9.99",
         imageSrc: "",
         imageAlt: "Steak, Onions & Cheese Wrap",
-        metadata: {"wrap"},
+        metadata: { items:"wrap"},
       },
 
 
@@ -1001,7 +1001,7 @@ export const menuData: MenuData = {
         prices: "",
         imageSrc: "",
         imageAlt: "Cheese",
-        metadata: {"Cheese"},
+        metadata: { items:"Cheese"},
       },
 
       {
@@ -1027,7 +1027,7 @@ export const menuData: MenuData = {
         prices: "",
         imageSrc: "",
         imageAlt: "Entrees",
-        metadata: {"garlic"},
+        metadata: { items:"garlic"},
       },
 
       {

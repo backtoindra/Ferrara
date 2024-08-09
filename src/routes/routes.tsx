@@ -14,6 +14,10 @@ const router = createBrowserRouter([
             element: <Menu />,
           },
           {
+            path: "menu",
+            element: <Menu />,
+          },
+          {
             path: "offline",
             element: <Offline />,
           }
