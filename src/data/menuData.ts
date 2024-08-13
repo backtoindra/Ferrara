@@ -647,7 +647,7 @@ export const menuData: MenuData = {
         metadata: {},
       },
       {
-        category: "Rigatoni Palermo",
+        category: "Pasta Palermo",
         description: "Ground sausage & ground beef with onions, peas & light marinara sauce.",
         prices: "$16.99",
         imageSrc: "",
@@ -942,7 +942,23 @@ export const menuData: MenuData = {
       {
         category: "Soda",
         description: "Pepsi,Coke, Diet coke, Mt. Dew, Fruit Punch, Lemonade, Mist Twist, Dr. Pepper.",
-        prices: "$2.50",
+        prices: "$2.49",
+        imageSrc: "",
+        imageAlt: "Soda",
+        metadata: { items:"Coke"},
+      },
+      {
+        category: "Soda 2L",
+        description: "Pepsi,Coke, Diet coke, Mt. Dew, Fruit Punch, Lemonade, Mist Twist, Dr. Pepper.",
+        prices: "$3.99",
+        imageSrc: "",
+        imageAlt: "Soda 2L",
+        metadata: { items:"Coke"},
+      },
+      {
+        category: "Can Soda",
+        description: "Pepsi,Coke, Diet coke, Mt. Dew, Fruit Punch, Lemonade, Mist Twist, Dr. Pepper.",
+        prices: "$1.49",
         imageSrc: "",
         imageAlt: "Soda",
         metadata: { items:"Coke"},
@@ -1073,22 +1089,14 @@ export const menuData: MenuData = {
 
       {
         category: "Pasta Dishes",
-        description: "Served with garlic rolls & side salad or soup.",
+        description: "Served with garlic rolls & side salad.",
         prices: "$13.99",
         imageSrc: "",
         imageAlt: "Veal Parmigiana",
         metadata: {},
       },
 
-      {
-        category: "Lasagna",
-        description: "Classic baked lasagna with layers of pasta, meat sauce, and cheese.",
-        prices: "$10.99",
-        imageSrc: "",
-        imageAlt: "Lasagna",
-        metadata: {},
-      },
-      {
+     {
         category: "Linguine with Clams",
         description: "Choice of red or white clam sauce.",
         prices: "$11.99",
