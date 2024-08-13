@@ -19,13 +19,13 @@ const SpecialRequests = () => {
           <div className="text-center">
             <h3 className="text-xl font-bold text-gray-900 md:text-left">Hours</h3>
             <ul className="mt-4 text-lg text-gray-600 md:text-right">
-              <li className='font-semibold'>Mon 11:00 – 22:00</li>
-              <li className='font-semibold'>Tue 11:00 – 22:00</li>
-              <li className='font-semibold'>Wed 11:00 – 22:00</li>
-              <li className='font-semibold'>Thu 11:00 – 22:00</li>
-              <li className='font-semibold'>Fri 11:00 – 23:00</li>
-              <li className='font-semibold'>Sat 11:00 – 23:00</li>
-              <li className='font-semibold'>Sun 11:00 – 22:00</li>
+              <li className='font-semibold'>Mon 10:30 – 21:00</li>
+              <li className='font-semibold'>Tue 10:30 – 21:00</li>
+              <li className='font-semibold'>Wed 10:30 – 21:00</li>
+              <li className='font-semibold'>Thu 10:30 – 21:00</li>
+              <li className='font-semibold'>Fri 10:30 – 21:00</li>
+              <li className='font-semibold'>Sat 10:30 – 21:00</li>
+              <li className='font-semibold'>Sun Closed </li>
             </ul>
           </div>
         </div>
