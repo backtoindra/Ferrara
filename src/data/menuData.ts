@@ -164,14 +164,7 @@ export const menuData: MenuData = {
         imageAlt: "Pasta Fagioli Soup",
         metadata: {},
       },
-      {
-        category: "Minestrone",
-        description: "A hearty vegetable soup with pasta.",
-        prices: "$3.99",
-        imageSrc: "",
-        imageAlt: "Minestrone Soup",
-        metadata: {},
-      },
+     
     ],
   },
  
