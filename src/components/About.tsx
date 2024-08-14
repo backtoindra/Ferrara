@@ -9,7 +9,7 @@ const features: Feature[] = [
     {
         name: 'Our Philosophy',
         description:
-            "At Ferrara Pizza and Pasta, we believe that great food should be made with love, care, and attention to detail. That's why we use only the freshest ingredients, grown and harvested locally whenever possible. Our goal is to create a dining experience that is both delicious and sustainable, so you can feel good about what you're eating.",
+            "At Ferrara Real NY Pizza, we believe that great food should be made with love, care, and attention to detail. That's why we use only the freshest ingredients, grown and harvested locally whenever possible. Our goal is to create a dining experience that is both delicious and sustainable, so you can feel good about what you're eating.",
         imageSrc: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=600&h=300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
         imageAlt: 'Our Philosophy.',
     },
@@ -23,7 +23,7 @@ const features: Feature[] = [
     {
         name: 'Our Wine',
         description:
-            "At Ferrara Pizza and Pasta, we believe that great food deserves great wine. That's why we offer an extensive list of carefully curated wines from Italy and beyond, selected to complement our menu and enhance your dining experience. Our knowledgeable staff can help you choose the perfect bottle to pair with your meal.",
+            "At Ferrara Real NY Pizza, we believe that great food deserves great wine. That's why we offer an extensive list of carefully curated wines from Italy and beyond, selected to complement our menu and enhance your dining experience. Our knowledgeable staff can help you choose the perfect bottle to pair with your meal.",
         imageSrc: 'https://images.unsplash.com/photo-1516594915697-87eb3b1c14ea?q=80&w=600&h=300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
         imageAlt: 'Our Wine',
     },
@@ -38,7 +38,7 @@ export default function About() {
         <div id="about" className="bg-white">
             <div className="mx-auto max-w-2xl px-4 py-8 sm:px-6 sm:py-16 lg:max-w-7xl lg:px-8">
                 <div className="mx-auto max-w-3xl text-center">
-                    <h1 className="text-3xl font-extrabold text-red-700 sm:text-4xl">About Ferrara Pizza and Pasta</h1>
+                    <h1 className="text-3xl font-extrabold text-red-700 sm:text-4xl">About Ferrara Real NY Pizza</h1>
                 </div>
 
                 <div className="mt-16 space-y-16">

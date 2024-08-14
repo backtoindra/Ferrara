@@ -17,10 +17,10 @@ export default function Hero() {
           <div className="mx-auto max-w-7xl px-6 lg:px-8">
             <div className="mx-auto text-center">
               <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-                Savor the Flavors of Italy
+                Savor the Flavors of Real New York
               </h1>
               <h3 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl mt-10">
-                Pizza & Pasta
+                Pizza
               </h3>
               <p className="mt-6 text-lg leading-8 text-gray-600">
                 From New York to South Carolina just to Serve You!.
