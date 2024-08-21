@@ -1083,12 +1083,19 @@ export const menuData: MenuData = {
       {
         category: "Pasta Dishes",
         description: "Served with garlic rolls & side salad.",
-        prices: "$13.99",
+        prices: "",
         imageSrc: "",
-        imageAlt: "Veal Parmigiana",
+        imageAlt: "Pasta Dishes",
         metadata: {},
       },
-
+ {
+        category: "Lasagna",
+        description: "Lasagna",
+        prices: "$10.99",
+        imageSrc: "",
+        imageAlt: "Lasagna",
+        metadata: {},
+      },
      {
         category: "Linguine with Clams",
         description: "Choice of red or white clam sauce.",
@@ -1116,7 +1123,7 @@ export const menuData: MenuData = {
 
     ],
   },
-  "Daily Specials": {
+  "Daily Lunch Specials": {
     id: "daily-specials",
     items: [
       {
@@ -1129,7 +1136,7 @@ export const menuData: MenuData = {
       },
     ],
   },
-  "Pizza Specials": {
+  "Pizza Lunch Specials": {
     id: "pizza-specials",
     items: [
       {
@@ -1150,7 +1157,7 @@ export const menuData: MenuData = {
       },
     ],
   },
-      "Choice of Subs": {
+      "Lunch Choice of Subs": {
         id: "Choice-Subs",
         items: [
       {
