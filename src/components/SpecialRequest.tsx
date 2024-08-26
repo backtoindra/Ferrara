@@ -8,24 +8,20 @@ const SpecialRequests = () => {
             Do you have dietary concerns? Questions about an upcoming event? Drop us a line, and we'll get back to you soon.
           </p>
         </div>
-        <div className="mt-10 px-8 sm:px-6 lg:max-w-7xl lg:px-8 flex justify-between">
-          <div className="text-center md:text-left">
+        <div className="mt-10 px-8 sm:px-6 lg:max-w-7xl lg:px-8 flex flex-col md:flex-row md:justify-between">
+          <div className="text-center md:text-left mb-8 md:mb-0">
             <h3 className="text-2xl font-bold text-gray-900">Ferrara Real NY Pizza</h3>
-            <h5 className='text-xl mt-4 font-bold text-gray-900 align-left'>Address:</h5>
-            <p className='font-semibold text-gray-900 align-left'>6801 St. Andrews Rd Suite 15</p>
-            <p className='font-semibold text-gray-900 align-left'>Columbia, SC 29212</p>
-            <p className='font-semibold text-gray-900 align-left'>Contact: (803)-728-0055</p>
+            <h5 className='text-xl mt-4 font-bold text-gray-900'>Address:</h5>
+            <p className='font-semibold text-gray-900'>6801 St. Andrews Rd Suite 15</p>
+            <p className='font-semibold text-gray-900'>Columbia, SC 29212</p>
+            <p className='font-semibold text-gray-900'>Contact: (803)-728-0055</p>
           </div>
-          <div className="text-center">
-            <h3 className="text-xl font-bold text-gray-900 md:text-left">Hours</h3>
-            <ul className="mt-4 text-lg text-gray-600 md:text-right">
-              <li className='font-semibold'>Mon 10:30 – 21:30</li>
-              <li className='font-semibold'>Tue 10:30 – 21:30</li>
-              <li className='font-semibold'>Wed 10:30 – 21:30</li>
-              <li className='font-semibold'>Thu 10:30 – 21:30</li>
-              <li className='font-semibold'>Fri 10:30 – 22:30</li>
-              <li className='font-semibold'>Sat 10:30 – 22:30</li>
-              <li className='font-semibold'>Sun 11:00 – 21:00</li>
+          <div className="text-center md:text-left">
+            <h3 className="text-xl font-bold text-gray-900">Hours</h3>
+            <ul className="mt-4 text-lg text-gray-600">
+              <li className='font-semibold'>Mon – Thu: 10:30 AM – 9:30 PM</li>
+              <li className='font-semibold'>Fri – Sat: 10:30 AM – 10:30 PM</li>
+              <li className='font-semibold'>Sun: 11:00 AM – 9:00 PM</li>
             </ul>
           </div>
         </div>
