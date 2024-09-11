@@ -6,7 +6,7 @@ import { menuData } from '../data/menuData';
 const Menu: React.FC = () => {
   const data = menuData;
   return (
-    <div className="bg-white">
+    <div className="bg-white" id="menu">
       <div className="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
         <div id="menu" className="mx-auto max-w-3xl text-center">
           <h1 className="text-3xl font-bold tracking-tight text-red-700 sm:text-4xl">Our Menu</h1>
