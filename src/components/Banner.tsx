@@ -8,7 +8,7 @@ export default function Banner() {
         </svg>
         Real New Yorkers, Real Italians, Real Pizza.{' '}
         <a href="https://ferrarapizzacolumbia.hrpos.heartland.us/menu" className="font-semibold underline text-white">
-          View Menu&nbsp;<span aria-hidden="true">&rarr;</span>
+          Order Online&nbsp;<span aria-hidden="true">&rarr;</span>
         </a>
       </p>
     </div>
