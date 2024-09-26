@@ -26,7 +26,7 @@ export default function Hero() {
                 From New York to South Carolina just to Serve You!.
               </p>
               <div className="mt-10 flex items-center justify-center gap-x-6">
-                  <a
+                <a
                   href="https://slicelife.com/restaurants/sc/columbia/29212/ferrara-real-ny-pizza/menu?utm_campaign=order_now_button&utm_medium=referral&utm_content=custom_link&utm_source="
                   className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                 >
