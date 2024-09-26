@@ -10,6 +10,11 @@ export default function Banner() {
         <a href="https://ferrarapizzacolumbia.hrpos.heartland.us/menu" className="font-semibold underline text-white">
           order online&nbsp;<span aria-hidden="true">&rarr;</span>
         </a>
+        <a href="https://slicelife.com/restaurants/sc/columbia/29212/ferrara-real-ny-pizza/menu?utm_campaign=order_now_button&utm_medium=referral&utm_content=custom_link&utm_source="
+                 className="font-semibold underline text-white">
+          Delivery&nbsp;<span aria-hidden="true">&rarr;</span>
+                
+                </a>
       </p>
     </div>
   );
